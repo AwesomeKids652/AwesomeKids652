@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sup, I'm AwesomeKid&fontSize=90)
 
 <h1 align="center">Sup! 👋 I'm AwesomeKid, your homie!</h1>
 <h3 align="center">a cool person who's a dev in altura</h3>
